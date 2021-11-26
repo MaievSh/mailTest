@@ -97,6 +97,6 @@ public class MailMessageTest implements IAbstractTest {
         insideMessagePage.setThreeDotsInMessage();
         insideMessagePage.setSpam();
         insideMessagePage.setSpamPageBtn();
-        Assert.assertTrue(insideMessagePage.getReplyMessagePreview().isElementWithTextPresent("This is test message!"), "Message is not send!");
+        Assert.assertTrue(insideMessagePage.getReplyMessagePreview().isElementWithTextPresent("This is test message!"), "Message is not in spam folder!");
     }
 }
