@@ -1,0 +1,2 @@
+[2021-11-26 03:08:35] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2021-11-26 03:08:35] [IMessager.java] [1] [INFO] RESULT #1: TEST [mailTestProject - markLikeSpam] FAIL [screenshots=file:///Users/aantsyferava/IdeaProjects/mailTestProject/./reports/1637928394037/5f5b22f8-5e48-4d8e-9300-37644eb47ed9/report.html | log=file:///Users/aantsyferava/IdeaProjects/mailTestProject/./reports/1637928394037/5f5b22f8-5e48-4d8e-9300-37644eb47ed9/test.log]

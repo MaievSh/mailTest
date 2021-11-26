@@ -1,0 +1,88 @@
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:03] [DriverListener.java] [1] [INFO] PASS: element 'writeMessageBtn' is clicked.
+[2021-11-26 03:17:04] [DriverListener.java] [1] [INFO] PASS: element 'inputFieldsAddressee' is clicked.
+[2021-11-26 03:17:05] [DriverListener.java] [1] [INFO] PASS: element 'chooseAddressee' is clicked.
+[2021-11-26 03:17:06] [DriverListener.java] [1] [INFO] PASS: element 'addButton' is clicked.
+[2021-11-26 03:17:06] [DriverListener.java] [1] [INFO] PASS: element 'inputMessage' is clicked.
+[2021-11-26 03:17:07] [DriverListener.java] [1] [INFO] PASS: keys cleared in element 'inputMessage'.
+[2021-11-26 03:17:08] [DriverListener.java] [1] [INFO] PASS: keys 'This is test message!' are sent to element 'inputMessage'.
+[2021-11-26 03:17:09] [DriverListener.java] [1] [INFO] PASS: element 'sendBtn' is clicked.
+[2021-11-26 03:17:10] [DriverListener.java] [1] [INFO] PASS: element 'closeFrame' is clicked.
+[2021-11-26 03:17:10] [DriverListener.java] [1] [INFO] PASS: element 'messageForMyself' is clicked.
+[2021-11-26 03:17:12] [TestRunRegistrar.java] [1] [WARN] Reporting disabled: using no op test run registrar
+[2021-11-26 03:17:12] [IMessager.java] [1] [INFO] TEST [mailTestProject - translateMessage] STARTED at [15:17:12 2021-11-26]
+[2021-11-26 03:17:12] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:12] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:12] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:12] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:12] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:12] [DriverListener.java] [1] [INFO] PASS: element 'messagePreview' is clicked.
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:13] [DriverListener.java] [1] [INFO] PASS: element 'threeDotsBtn5' is clicked.
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [CryptoTool.java] [1] [ERROR] Can't load secret key!
+[2021-11-26 03:17:14] [DriverListener.java] [1] [INFO] PASS: element 'markBtn6' is clicked.
+[2021-11-26 03:17:15] [IMessager.java] [1] [INFO] TEST [mailTestProject - translateMessage] PASSED at [15:17:15 2021-11-26]

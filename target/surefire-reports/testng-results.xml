@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-25T17:05:47 MSK" name="mailTests.MailMessageTest" finished-at="2021-11-25T17:06:54 MSK" duration-ms="67106">
+    <groups>
+    </groups>
+    <test started-at="2021-11-25T17:05:47 MSK" name="Command line test" finished-at="2021-11-25T17:06:54 MSK" duration-ms="67106">
+      <class name="mailTests.MailMessageTest">
+        <test-method is-config="true" signature="logIn()[pri:0, instance:mailTests.MailMessageTest@6f315b08]" started-at="2021-11-25T17:05:47 MSK" name="logIn" finished-at="2021-11-25T17:06:23 MSK" duration-ms="35747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="sendMessageToYourself()[pri:0, instance:mailTests.MailMessageTest@6f315b08]" started-at="2021-11-25T17:06:23 MSK" name="sendMessageToYourself" finished-at="2021-11-25T17:06:36 MSK" duration-ms="13264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMessageToYourself -->
+        <test-method signature="deleteMessage()[pri:0, instance:mailTests.MailMessageTest@6f315b08]" started-at="2021-11-25T17:06:36 MSK" name="deleteMessage" finished-at="2021-11-25T17:06:38 MSK" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMessage -->
+        <test-method is-config="true" signature="sendMessageToYourself()[pri:0, instance:mailTests.MailMessageTest@6f315b08]" started-at="2021-11-25T17:06:38 MSK" name="sendMessageToYourself" finished-at="2021-11-25T17:06:47 MSK" duration-ms="8642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMessageToYourself -->
+        <test-method signature="replyOnMessage()[pri:0, instance:mailTests.MailMessageTest@6f315b08]" started-at="2021-11-25T17:06:47 MSK" name="replyOnMessage" finished-at="2021-11-25T17:06:54 MSK" duration-ms="6704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replyOnMessage -->
+      </class> <!-- mailTests.MailMessageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- mailTests.MailMessageTest -->
+</testng-results>

@@ -1,0 +1,5 @@
+mailPages/InsideMessagePage.class
+mailPages/VerificationMail.class
+mailPages/LogInPage.class
+mailPages/MessageForMyselfPage.class
+mailPages/IncomingMessagePage.class
